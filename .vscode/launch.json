@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "application.Main",
+            "projectName": "application-application"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "FlightControl.Main",
             "projectName": "flightcontrol"
         },
