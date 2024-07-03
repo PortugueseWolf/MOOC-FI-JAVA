@@ -6,6 +6,19 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintingASpecifiedFile",
+            "request": "launch",
+            "mainClass": "PrintingASpecifiedFile"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "dictionary.Main",
+            "projectName": "dictionary"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "application.Main",
