@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "sumtheseforme.Program",
+            "projectName": "sumtheseforme"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "pipe.App",
