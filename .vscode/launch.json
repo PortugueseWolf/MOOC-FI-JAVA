@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "hideout.App",
+            "projectName": "hideout"
+        },
+        {
+            "type": "java",
             "name": "PrintingASpecifiedFile",
             "request": "launch",
             "mainClass": "PrintingASpecifiedFile"
