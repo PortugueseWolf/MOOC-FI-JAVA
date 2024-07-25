@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Program",
             "request": "launch",
+            "mainClass": "lottery.Program",
+            "projectName": "lottery"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
             "mainClass": "die.Program",
             "projectName": "die"
         },
