@@ -8,6 +8,13 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "numbers.App",
+            "projectName": "numbers"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "hashmap.App",
             "projectName": "hashmap"
         },
