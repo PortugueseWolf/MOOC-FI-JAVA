@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Program",
             "request": "launch",
+            "mainClass": "arrayasastring.Program",
+            "projectName": "arrayasastring"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
             "mainClass": "lottery.Program",
             "projectName": "lottery"
         },
