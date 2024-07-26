@@ -7,6 +7,10 @@ This is a work in progress and the answers won't be pretty or the best or optimi
 
 I'm also using this oportunity to learn how to use Git and GitHub
 
+## Note
+
+When copying the Java files from the repo to TMC the package attribute needs to be deleted or changed so it coincides with TMC.
+
 ## Environment
 
 My current setup at this date (2023-09-16)

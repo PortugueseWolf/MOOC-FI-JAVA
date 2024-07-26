@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "myfirst/myfirst.App",
+            "projectName": "application"
+        },
+        {
+            "type": "java",
             "name": "Program",
             "request": "launch",
             "mainClass": "magic.square.Program",
