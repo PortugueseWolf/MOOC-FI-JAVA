@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Program",
             "request": "launch",
+            "mainClass": "magic.square.Program",
+            "projectName": "magic_square"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
             "mainClass": "arrayasastring.Program",
             "projectName": "arrayasastring"
         },
