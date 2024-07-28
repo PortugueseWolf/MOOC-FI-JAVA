@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BorderPaneApplication",
+            "request": "launch",
+            "mainClass": "borderpane/borderpane.BorderPaneApplication",
+            "projectName": "borderpane"
+        },
+        {
+            "type": "java",
             "name": "ButtonAndTextFieldApplication",
             "request": "launch",
             "mainClass": "buttonandtextfield/buttonandtextfield.ButtonAndTextFieldApplication",
