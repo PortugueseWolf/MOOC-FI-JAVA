@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ButtonAndTextFieldApplication",
+            "request": "launch",
+            "mainClass": "buttonandtextfield/buttonandtextfield.ButtonAndTextFieldApplication",
+            "projectName": "buttonandtextfield"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "buttonandlabel/buttonandlabel.App",
