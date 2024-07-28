@@ -8,6 +8,13 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "buttonandlabel/buttonandlabel.App",
+            "projectName": "buttonandlabel"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "myfirst/myfirst.App",
             "projectName": "application"
         },
