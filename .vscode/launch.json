@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TextStatisticsApplication",
+            "request": "launch",
+            "mainClass": "textstatistics/textstatistics.TextStatisticsApplication",
+            "projectName": "textstatistics"
+        },
+        {
+            "type": "java",
             "name": "BorderPaneApplication",
             "request": "launch",
             "mainClass": "borderpane/borderpane.BorderPaneApplication",
