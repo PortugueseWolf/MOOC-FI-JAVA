@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NotifierApplication",
+            "request": "launch",
+            "mainClass": "notifier/notifier.NotifierApplication",
+            "projectName": "notifier"
+        },
+        {
+            "type": "java",
             "name": "TextStatisticsApplication",
             "request": "launch",
             "mainClass": "textstatistics/textstatistics.TextStatisticsApplication",
