@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultipleViews",
+            "request": "launch",
+            "mainClass": "application/application.MultipleViews",
+            "projectName": "application"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "title/title.Main",
+            "projectName": "title"
+        },
+        {
+            "type": "java",
             "name": "NotifierApplication",
             "request": "launch",
             "mainClass": "notifier/notifier.NotifierApplication",
