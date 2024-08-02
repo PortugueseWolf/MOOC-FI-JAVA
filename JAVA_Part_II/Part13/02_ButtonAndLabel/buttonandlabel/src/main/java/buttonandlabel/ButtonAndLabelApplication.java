@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 public class ButtonAndLabelApplication extends Application {
 
     @Override
-    public void start(Stage stage) {
+    public void start(@SuppressWarnings("exports") Stage stage) {
 
         Button button = new Button("This is my first button!");
         Label label = new Label("Just a label lol");

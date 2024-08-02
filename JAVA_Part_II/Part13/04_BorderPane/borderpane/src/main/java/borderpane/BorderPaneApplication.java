@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 public class BorderPaneApplication extends Application {
 
     @Override
-    public void start(Stage stage) {
+    public void start(@SuppressWarnings("exports") Stage stage) {
         BorderPane layout = new BorderPane();
 
         layout.setTop(new Label("NORTH"));

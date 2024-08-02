@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 public class NotifierApplication extends Application {
 
     @Override
-    public void start(Stage stage) {
+    public void start(@SuppressWarnings("exports") Stage stage) {
         VBox vertical = new VBox();
         //vertical.setSpacing(10);
 

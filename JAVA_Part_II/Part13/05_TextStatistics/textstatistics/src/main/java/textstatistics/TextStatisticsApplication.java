@@ -11,7 +11,7 @@ import javafx.scene.layout.HBox;
 public class TextStatisticsApplication extends Application {
 
     @Override
-    public void start(Stage stage) {
+    public void start(@SuppressWarnings("exports") Stage stage) {
         BorderPane layout = new BorderPane();
         
         HBox bottom = new HBox();

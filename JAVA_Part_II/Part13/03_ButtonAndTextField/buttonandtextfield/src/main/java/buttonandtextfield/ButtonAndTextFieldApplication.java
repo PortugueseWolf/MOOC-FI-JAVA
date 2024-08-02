@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 public class ButtonAndTextFieldApplication extends Application {
 
     @Override
-    public void start(Stage stage) {
+    public void start(@SuppressWarnings("exports") Stage stage) {
 
         Button button = new Button("New button");
         TextField text = new TextField("Lorem ipsum");
