@@ -1,4 +1,4 @@
-module test {
+module joke {
     requires javafx.controls;
-    exports test;
+    exports joke;
 }
