@@ -1,6 +1,7 @@
 package vocabulary;
 
 import javafx.application.Application;
+import javafx.geometry.Insets;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.layout.BorderPane;
@@ -22,12 +23,13 @@ public class VocabularyPracticeApplication extends Application {
         PracticeView practiceView = new PracticeView(dictionary);
                 
         BorderPane layout = new BorderPane();
-        
         HBox top = new HBox();
         Button newWordsButton = new Button("Enter new words");
         Button practiceButton = new Button("Practice");
 
         top.getChildren().addAll(newWordsButton, practiceButton);
+        top.setPadding(new Insets(20, 20, 20, 20));
+        top.setSpacing(10);
 
         layout.setTop(top);
 
@@ -35,12 +37,14 @@ public class VocabularyPracticeApplication extends Application {
             layout.setCenter(input.getView());
         });
         practiceButton.setOnAction((event) -> {
-            layout.setCenter(practiceView.getView());
+            if (!(dictionary.isEmpty())) {
+                layout.setCenter(practiceView.getView());
+            }
         });
 
         layout.setCenter(input.getView());
 
-        Scene scene = new Scene(layout);
+        Scene scene = new Scene(layout, 400, 300);
         stage.setScene(scene);
         stage.setTitle("Vocabulary Practice");
         stage.show();

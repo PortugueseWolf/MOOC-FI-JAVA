@@ -5,8 +5,7 @@ import javafx.scene.Parent;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
-
-import javafx.scene.layout.VBox;
+import javafx.scene.layout.GridPane;
 
 public class InputView {
     private Dictionary dictionary;
@@ -18,7 +17,7 @@ public class InputView {
     @SuppressWarnings("exports")
     public Parent getView() {
 
-        VBox vNewWord = new VBox();
+        GridPane vNewWord = new GridPane();
 
         Label firstLabel = new Label("Word");
         TextField firstField = new TextField();
@@ -26,8 +25,16 @@ public class InputView {
         TextField secondField = new TextField();
         Button button = new Button("Add the word pair");
 
-        vNewWord.getChildren().addAll(firstLabel, firstField, secondLabel, secondField, button);
+        vNewWord.add(firstLabel, 0, 0);
+        vNewWord.add(firstField, 0, 1);
+        vNewWord.add(secondLabel, 0, 2);
+        vNewWord.add(secondField, 0, 3);
+        vNewWord.add(button, 0, 4);
+
+        firstLabel.setAlignment(Pos.CENTER);
         vNewWord.setAlignment(Pos.CENTER);
+        vNewWord.setVgap(10);
+        vNewWord.setHgap(10);
 
         button.setOnAction((event) -> {
             dictionary.add(firstField.getText(), secondField.getText());

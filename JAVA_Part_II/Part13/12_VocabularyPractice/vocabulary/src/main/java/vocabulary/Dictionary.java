@@ -28,7 +28,7 @@ public class Dictionary {
         int i = 0;
          for(String word : dictionary.keySet()) {
             if (i == index) {
-                lastRandom = dictionary.get(word);
+                lastRandom = word;
                 return dictionary.get(word);
             }
             i++;
@@ -38,6 +38,13 @@ public class Dictionary {
 
     public String getLastRandom() {
         return lastRandom;
+    }
+
+    public boolean isEmpty() {
+        if (dictionary.isEmpty()) {
+            return true;
+        }
+        return false;
     }
 
 
