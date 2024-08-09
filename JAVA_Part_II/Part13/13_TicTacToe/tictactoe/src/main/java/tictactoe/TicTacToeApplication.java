@@ -20,6 +20,7 @@ public class TicTacToeApplication extends Application {
 
         Scene view = new Scene(layout);
         stage.setScene(view);
+        stage.setTitle("TicTacToe By PortugueseWolf");
         stage.show();
     }
 
