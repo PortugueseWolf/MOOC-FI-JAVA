@@ -7,7 +7,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
 
 public class TicTacToeApplication extends Application {
-    
+
     @Override
     public void start(@SuppressWarnings("exports") Stage stage) {
         Board board = new Board();
