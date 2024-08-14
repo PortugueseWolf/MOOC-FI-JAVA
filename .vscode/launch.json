@@ -1,0 +1,672 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SavingsCalculatorApplication",
+            "request": "launch",
+            "mainClass": "savings/savings.SavingsCalculatorApplication",
+            "projectName": "savings-savings"
+        },
+        {
+            "type": "java",
+            "name": "SavingsCalculatorApplication",
+            "request": "launch",
+            "mainClass": "savings/savings.SavingsCalculatorApplication",
+            "projectName": "savings"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "abbreviations.Main",
+            "projectName": "abbreviations-abbreviations"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "abc.Main",
+            "projectName": "abc-abc"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "animals.Main",
+            "projectName": "animals-animals"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "projectName": "application-application"
+        },
+        {
+            "type": "java",
+            "name": "MultipleViews",
+            "request": "launch",
+            "mainClass": "application/application.MultipleViews",
+            "projectName": "application"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "arrayasastring.Program",
+            "projectName": "arrayasastring-arrayasastring"
+        },
+        {
+            "type": "java",
+            "name": "AverageOfNumbers",
+            "request": "launch",
+            "mainClass": "averageofnumbers.AverageOfNumbers",
+            "projectName": "averageofnumbers-averageofnumbers"
+        },
+        {
+            "type": "java",
+            "name": "AverageOfPositiveNumbers",
+            "request": "launch",
+            "mainClass": "averageofpositivenumbers.AverageOfPositiveNumbers",
+            "projectName": "averageofpositivenumbers-averageofpositivenumbers"
+        },
+        {
+            "type": "java",
+            "name": "AverageOfSelectedNumbers",
+            "request": "launch",
+            "mainClass": "averageofslectednumbers.AverageOfSelectedNumbers",
+            "projectName": "averageofslectednumbers-averageofselectednumbers"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "biggerclassdiagram.App",
+            "projectName": "biggerclassdiagram-biggerclassdiagram"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "bigyear.Main",
+            "projectName": "bigyear-bigyear"
+        },
+        {
+            "type": "java",
+            "name": "Program(1)",
+            "request": "launch",
+            "mainClass": "bookandplane.Program",
+            "projectName": "bookandplane-bookandplane"
+        },
+        {
+            "type": "java",
+            "name": "BooksFromFile",
+            "request": "launch",
+            "mainClass": "booksfromfile.BooksFromFile",
+            "projectName": "booksfromfile-booksfromfile"
+        },
+        {
+            "type": "java",
+            "name": "BorderPaneApplication",
+            "request": "launch",
+            "mainClass": "borderpane/borderpane.BorderPaneApplication",
+            "projectName": "borderpane-borderpane"
+        },
+        {
+            "type": "java",
+            "name": "ButtonAndLabelApplication",
+            "request": "launch",
+            "mainClass": "buttonandlabel/buttonandlabel.ButtonAndLabelApplication",
+            "projectName": "buttonandlabel-buttonandlabel"
+        },
+        {
+            "type": "java",
+            "name": "ButtonAndTextFieldApplication",
+            "request": "launch",
+            "mainClass": "buttonandtextfield/buttonandtextfield.ButtonAndTextFieldApplication",
+            "projectName": "buttonandtextfield-buttonandtextfield"
+        },
+        {
+            "type": "java",
+            "name": "Cubes",
+            "request": "launch",
+            "mainClass": "cubes.Cubes",
+            "projectName": "cubes-cubes"
+        },
+        {
+            "type": "java",
+            "name": "Program(2)",
+            "request": "launch",
+            "mainClass": "customer.Program",
+            "projectName": "customer-customer"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "dictionary.Main",
+            "projectName": "dictionary-dictionary"
+        },
+        {
+            "type": "java",
+            "name": "Program(3)",
+            "request": "launch",
+            "mainClass": "dictionary.Program",
+            "projectName": "dictionary"
+        },
+        {
+            "type": "java",
+            "name": "Program(4)",
+            "request": "launch",
+            "mainClass": "die.Program",
+            "projectName": "die-die"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "differentkindsofboxes.Main",
+            "projectName": "differentkindsofboxes-differentkindsofboxes"
+        },
+        {
+            "type": "java",
+            "name": "Divisible",
+            "request": "launch",
+            "mainClass": "divisible.Divisible",
+            "projectName": "divisible-divisible"
+        },
+        {
+            "type": "java",
+            "name": "MainProgram",
+            "request": "launch",
+            "mainClass": "enumanditerator.MainProgram",
+            "projectName": "enumanditerator-enumanditerator"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "exercise_management.Main",
+            "projectName": "exercise_management-exercise_management"
+        },
+        {
+            "type": "java",
+            "name": "PartiesApplication",
+            "request": "launch",
+            "mainClass": "finnishparties/finnishparties.PartiesApplication",
+            "projectName": "finnishparties-finnishparties"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "FlightControl.Main",
+            "projectName": "flightcontrol-FlightControl"
+        },
+        {
+            "type": "java",
+            "name": "Main(9)",
+            "request": "launch",
+            "mainClass": "grade.Main",
+            "projectName": "grade-grade"
+        },
+        {
+            "type": "java",
+            "name": "GreeterApplication",
+            "request": "launch",
+            "mainClass": "greeter/greeter.GreeterApplication",
+            "projectName": "greeter-greeter"
+        },
+        {
+            "type": "java",
+            "name": "Main(10)",
+            "request": "launch",
+            "mainClass": "hashfordate.Main",
+            "projectName": "hashfordate-hashfordate"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "hashmap.App",
+            "projectName": "hashmap-hashmap"
+        },
+        {
+            "type": "java",
+            "name": "MainProgram(1)",
+            "request": "launch",
+            "mainClass": "herd.MainProgram",
+            "projectName": "herd-herd"
+        },
+        {
+            "type": "java",
+            "name": "App(2)",
+            "request": "launch",
+            "mainClass": "hideout.App",
+            "projectName": "hideout-hideout"
+        },
+        {
+            "type": "java",
+            "name": "Main(11)",
+            "request": "launch",
+            "mainClass": "interfaceinabox.Main",
+            "projectName": "interfaceinabox-interfaceinabox"
+        },
+        {
+            "type": "java",
+            "name": "Main(12)",
+            "request": "launch",
+            "mainClass": "ioweyou.Main",
+            "projectName": "ioweyou-ioweyou"
+        },
+        {
+            "type": "java",
+            "name": "JokeApplication",
+            "request": "launch",
+            "mainClass": "joke/joke.JokeApplication",
+            "projectName": "joke-joke"
+        },
+        {
+            "type": "java",
+            "name": "LimitedNumbers",
+            "request": "launch",
+            "mainClass": "limitednumbers.LimitedNumbers",
+            "projectName": "limitednumbers-limitednumbers"
+        },
+        {
+            "type": "java",
+            "name": "LiquidContainers",
+            "request": "launch",
+            "mainClass": "liquidcontainers.LiquidContainers",
+            "projectName": "liquidcontainers-liquidcontainers"
+        },
+        {
+            "type": "java",
+            "name": "LiquidContainers2",
+            "request": "launch",
+            "mainClass": "liquidcontainers2.LiquidContainers2",
+            "projectName": "liquidcontainers2-liquidcontainers2"
+        },
+        {
+            "type": "java",
+            "name": "LiquidContainers2(1)",
+            "request": "launch",
+            "mainClass": "liquidcontainerstwo.LiquidContainers2",
+            "projectName": "liquidcontainerstwo-liquidcontainerstwo"
+        },
+        {
+            "type": "java",
+            "name": "LiquidContainers(1)",
+            "request": "launch",
+            "mainClass": "liquidcontainers.LiquidContainers",
+            "projectName": "liquidcontainers"
+        },
+        {
+            "type": "java",
+            "name": "App(3)",
+            "request": "launch",
+            "mainClass": "list.App",
+            "projectName": "list-list"
+        },
+        {
+            "type": "java",
+            "name": "mainProgram",
+            "request": "launch",
+            "mainClass": "list.mainProgram",
+            "projectName": "list-parameter"
+        },
+        {
+            "type": "java",
+            "name": "LiteracyComparison",
+            "request": "launch",
+            "mainClass": "literacy.LiteracyComparison",
+            "projectName": "literacy-comparison"
+        },
+        {
+            "type": "java",
+            "name": "MainProgram(2)",
+            "request": "launch",
+            "mainClass": "literature.MainProgram",
+            "projectName": "literature-literature"
+        },
+        {
+            "type": "java",
+            "name": "Program(5)",
+            "request": "launch",
+            "mainClass": "lottery.Program",
+            "projectName": "lottery-lottery"
+        },
+        {
+            "type": "java",
+            "name": "Program(6)",
+            "request": "launch",
+            "mainClass": "magic.square.Program",
+            "projectName": "magic.square-magic_square"
+        },
+        {
+            "type": "java",
+            "name": "mainProgram(1)",
+            "request": "launch",
+            "mainClass": "mapasamethodparameter.mainProgram",
+            "projectName": "mapasamethodparameter-mapasamethodparameter"
+        },
+        {
+            "type": "java",
+            "name": "Main(13)",
+            "request": "launch",
+            "mainClass": "mooc.Main",
+            "projectName": "mooc-firstpackages"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstApplication",
+            "request": "launch",
+            "mainClass": "myfirst/myfirst.MyFirstApplication",
+            "projectName": "myfirst-application"
+        },
+        {
+            "type": "java",
+            "name": "Nicknames",
+            "request": "launch",
+            "mainClass": "nicknames.Nicknames",
+            "projectName": "nicknames-nicknames"
+        },
+        {
+            "type": "java",
+            "name": "NotifierApplication",
+            "request": "launch",
+            "mainClass": "notifier/notifier.NotifierApplication",
+            "projectName": "notifier-notifier"
+        },
+        {
+            "type": "java",
+            "name": "App(4)",
+            "request": "launch",
+            "mainClass": "numbers.App",
+            "projectName": "numbers-numbers"
+        },
+        {
+            "type": "java",
+            "name": "Main(14)",
+            "request": "launch",
+            "mainClass": "onlineshop.Main",
+            "projectName": "onlineshop-onlineshop"
+        },
+        {
+            "type": "java",
+            "name": "Main(15)",
+            "request": "launch",
+            "mainClass": "personandsubclasses.Main",
+            "projectName": "personandsubclasses-personandsubclasses"
+        },
+        {
+            "type": "java",
+            "name": "App(5)",
+            "request": "launch",
+            "mainClass": "pipe.App",
+            "projectName": "pipe-pipe"
+        },
+        {
+            "type": "java",
+            "name": "PositiveNumbers",
+            "request": "launch",
+            "mainClass": "positivenumbers.PositiveNumbers",
+            "projectName": "positivenumbers-positivenumbers"
+        },
+        {
+            "type": "java",
+            "name": "Program(7)",
+            "request": "launch",
+            "mainClass": "printanotherhashmap.Program",
+            "projectName": "printanotherhashmap-printanotherhashmap"
+        },
+        {
+            "type": "java",
+            "name": "Program(8)",
+            "request": "launch",
+            "mainClass": "printhashmap.Program",
+            "projectName": "printhashmap-printhashmap"
+        },
+        {
+            "type": "java",
+            "name": "PrintingUserInput",
+            "request": "launch",
+            "mainClass": "printinguserinput.PrintingUserInput",
+            "projectName": "printinguserinput-printinguseroinput"
+        },
+        {
+            "type": "java",
+            "name": "Main(16)",
+            "request": "launch",
+            "mainClass": "readingfilesperline.Main",
+            "projectName": "readingfilesperline-readingfilesperline"
+        },
+        {
+            "type": "java",
+            "name": "Main(17)",
+            "request": "launch",
+            "mainClass": "readymadealgorithm.Main",
+            "projectName": "readymadealgorithm-readymadealgorithm"
+        },
+        {
+            "type": "java",
+            "name": "RecipeSearch",
+            "request": "launch",
+            "mainClass": "recipesearch.RecipeSearch",
+            "projectName": "recipesearch-recipesearch"
+        },
+        {
+            "type": "java",
+            "name": "MainProgram(3)",
+            "request": "launch",
+            "mainClass": "regular.MainProgram",
+            "projectName": "regular-expressions"
+        },
+        {
+            "type": "java",
+            "name": "Main(18)",
+            "request": "launch",
+            "mainClass": "samedate.Main",
+            "projectName": "samedate-samedate"
+        },
+        {
+            "type": "java",
+            "name": "App(6)",
+            "request": "launch",
+            "mainClass": "saveableperson.App",
+            "projectName": "saveableperson-saveableperson"
+        },
+        {
+            "type": "java",
+            "name": "SavingsApplication",
+            "request": "launch",
+            "mainClass": "savings/savings.SavingsApplication",
+            "projectName": "savings"
+        },
+        {
+            "type": "java",
+            "name": "Searching",
+            "request": "launch",
+            "mainClass": "searching.Searching",
+            "projectName": "searching-searching"
+        },
+        {
+            "type": "java",
+            "name": "Main(19)",
+            "request": "launch",
+            "mainClass": "setasamethodparameter.Main",
+            "projectName": "setasamethodparameter-setasamethodparameter"
+        },
+        {
+            "type": "java",
+            "name": "ShanghaiApplication",
+            "request": "launch",
+            "mainClass": "shanghai/shanghai.ShanghaiApplication",
+            "projectName": "shanghai-shanghai"
+        },
+        {
+            "type": "java",
+            "name": "Program(9)",
+            "request": "launch",
+            "mainClass": "showandticket.Program",
+            "projectName": "showandticket-showandticket"
+        },
+        {
+            "type": "java",
+            "name": "MainProgram(4)",
+            "request": "launch",
+            "mainClass": "sorting.MainProgram",
+            "projectName": "sorting-sorting"
+        },
+        {
+            "type": "java",
+            "name": "Main(20)",
+            "request": "launch",
+            "mainClass": "sortthemcards.Main",
+            "projectName": "sortthemcards-sortthemcards"
+        },
+        {
+            "type": "java",
+            "name": "Program(10)",
+            "request": "launch",
+            "mainClass": "storage.Program",
+            "projectName": "storage-facilities"
+        },
+        {
+            "type": "java",
+            "name": "Program(11)",
+            "request": "launch",
+            "mainClass": "studentanduniversity.Program",
+            "projectName": "studentanduniversity-studentanduniversity"
+        },
+        {
+            "type": "java",
+            "name": "MainProgram(5)",
+            "request": "launch",
+            "mainClass": "students.MainProgram",
+            "projectName": "students-students"
+        },
+        {
+            "type": "java",
+            "name": "Program(12)",
+            "request": "launch",
+            "mainClass": "sumtheseforme.Program",
+            "projectName": "sumtheseforme-sumtheseforme"
+        },
+        {
+            "type": "java",
+            "name": "Main(21)",
+            "request": "launch",
+            "mainClass": "tacoboxes.Main",
+            "projectName": "tacoboxes-tacoboxes"
+        },
+        {
+            "type": "java",
+            "name": "TextStatisticsApplication",
+            "request": "launch",
+            "mainClass": "textstatistics/textstatistics.TextStatisticsApplication",
+            "projectName": "textstatistics-textstatistics"
+        },
+        {
+            "type": "java",
+            "name": "TextStatisticsApplication(1)",
+            "request": "launch",
+            "mainClass": "textstatistics/textstatistics.TextStatisticsApplication",
+            "projectName": "textstatistics"
+        },
+        {
+            "type": "java",
+            "name": "Program(13)",
+            "request": "launch",
+            "mainClass": "theplayerandthebot.Program",
+            "projectName": "theplayerandthebot-theplayerandthebot"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToeApplication",
+            "request": "launch",
+            "mainClass": "tictactoe/tictactoe.TicTacToeApplication",
+            "projectName": "tictactoe-tictactoe"
+        },
+        {
+            "type": "java",
+            "name": "Main(22)",
+            "request": "launch",
+            "mainClass": "title/title.Main",
+            "projectName": "title-title"
+        },
+        {
+            "type": "java",
+            "name": "Program(14)",
+            "request": "launch",
+            "mainClass": "Program",
+            "projectName": "tkt-Part11_09.ThreePackages"
+        },
+        {
+            "type": "java",
+            "name": "Main(23)",
+            "request": "launch",
+            "mainClass": "todolist.Main",
+            "projectName": "todolist-todolist"
+        },
+        {
+            "type": "java",
+            "name": "UniqueLastNames",
+            "request": "launch",
+            "mainClass": "uniquelastnames.UniqueLastNames",
+            "projectName": "uniquelastnames-uniquelastnames"
+        },
+        {
+            "type": "java",
+            "name": "App(7)",
+            "request": "launch",
+            "mainClass": "validating.App",
+            "projectName": "validating-validatingparameters"
+        },
+        {
+            "type": "java",
+            "name": "Main(24)",
+            "request": "launch",
+            "mainClass": "vehicleregistry.Main",
+            "projectName": "vehicleregistry-vehicleregistry"
+        },
+        {
+            "type": "java",
+            "name": "VocabularyPracticeApplication",
+            "request": "launch",
+            "mainClass": "vocabulary/vocabulary.VocabularyPracticeApplication",
+            "projectName": "vocabulary-vocabulary"
+        },
+        {
+            "type": "java",
+            "name": "MainProgram(6)",
+            "request": "launch",
+            "mainClass": "wageorder.MainProgram",
+            "projectName": "wageorder-wageorder"
+        },
+        {
+            "type": "java",
+            "name": "Main(25)",
+            "request": "launch",
+            "mainClass": "warehousing.Main",
+            "projectName": "warehousing-warehousing"
+        },
+        {
+            "type": "java",
+            "name": "Main(26)",
+            "request": "launch",
+            "mainClass": "weighting.Main",
+            "projectName": "weighting-weighting"
+        }
+    ]
+}
