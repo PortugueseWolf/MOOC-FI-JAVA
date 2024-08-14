@@ -26,6 +26,8 @@ public class SavingsCalculatorApplication extends Application {
         NumberAxis yAxis = new NumberAxis();
         LineChart<Number, Number> lineChart = new LineChart<>(xAxis, yAxis);
 
+        lineChart.setLegendVisible(false);
+
         layout.setTop(sliders);
         layout.setCenter(lineChart);
 
