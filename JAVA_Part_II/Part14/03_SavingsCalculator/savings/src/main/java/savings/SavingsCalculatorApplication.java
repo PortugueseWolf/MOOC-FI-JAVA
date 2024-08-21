@@ -120,14 +120,12 @@ public class SavingsCalculatorApplication extends Application {
             }
             if (interestCalculated == 0.0) {
                 interestCalculated = (yearDeposits) + ((yearDeposits) * (interest / 100));
-                System.out.println(interestCalculated);
                 test = interestCalculated;
             } else {
                 interestCalculated = ((yearDeposits + test) + ((yearDeposits + test) * (interest / 100)));
             }
             data.getData().add(new XYChart.Data<Number, Number>(i, interestCalculated));
             test = interestCalculated;
-            System.out.println(interestCalculated);
         }
         return data;
     }

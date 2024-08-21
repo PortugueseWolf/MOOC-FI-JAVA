@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CyclingStatisticsApplication",
+            "request": "launch",
+            "mainClass": "cycling/cycling.CyclingStatisticsApplication",
+            "projectName": "cycling-cycling"
+        },
+        {
+            "type": "java",
+            "name": "CyclingStatisticsApplication",
+            "request": "launch",
+            "mainClass": "cycling/cycling.CyclingStatisticsApplication",
+            "projectName": "cycling"
+        },
+        {
+            "type": "java",
             "name": "SavingsCalculatorApplication",
             "request": "launch",
             "mainClass": "savings/savings.SavingsCalculatorApplication",
