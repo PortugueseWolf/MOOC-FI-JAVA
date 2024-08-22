@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SmileyApplication",
+            "request": "launch",
+            "mainClass": "smiley/smiley.SmileyApplication",
+            "projectName": "smiley"
+        },
+        {
+            "type": "java",
             "name": "CyclingStatisticsApplication",
             "request": "launch",
             "mainClass": "cycling/cycling.CyclingStatisticsApplication",
