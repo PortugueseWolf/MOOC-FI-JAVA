@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CollageApplication",
+            "request": "launch",
+            "mainClass": "collage/collage.CollageApplication",
+            "projectName": "collage-collage"
+        },
+        {
+            "type": "java",
+            "name": "CollageApplication",
+            "request": "launch",
+            "mainClass": "collage/collage.CollageApplication",
+            "projectName": "collage"
+        },
+        {
+            "type": "java",
             "name": "SmileyApplication",
             "request": "launch",
             "mainClass": "smiley/smiley.SmileyApplication",
