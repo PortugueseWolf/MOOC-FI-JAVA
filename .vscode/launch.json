@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HurraaSovellus",
+            "request": "launch",
+            "mainClass": "hurray.HurraaSovellus",
+            "projectName": "hurray-hurray"
+        },
+        {
+            "type": "java",
+            "name": "HurraaSovellus",
+            "request": "launch",
+            "mainClass": "hurray/hurray.HurraaSovellus",
+            "projectName": "hurray-hurray"
+        },
+        {
+            "type": "java",
             "name": "CollageApplication",
             "request": "launch",
             "mainClass": "collage/collage.CollageApplication",
