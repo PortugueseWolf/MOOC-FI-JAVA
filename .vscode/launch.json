@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Progam",
+            "request": "launch",
+            "mainClass": "application.Progam",
+            "projectName": "exercise"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "exercise.App",
+            "projectName": "exercise"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "exercise.Program",
+            "projectName": "exercise"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "database.Program",
+            "projectName": "database-database"
+        },
+        {
+            "type": "java",
             "name": "AsteroidsApplication",
             "request": "launch",
             "mainClass": "asteroids/asteroids.AsteroidsApplication",
