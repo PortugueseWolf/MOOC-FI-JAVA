@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AsteroidsApplication",
+            "request": "launch",
+            "mainClass": "asteroids/asteroids.AsteroidsApplication",
+            "projectName": "asteroids-asteroids"
+        },
+        {
+            "type": "java",
             "name": "HurraaSovellus",
             "request": "launch",
             "mainClass": "hurray.HurraaSovellus",
