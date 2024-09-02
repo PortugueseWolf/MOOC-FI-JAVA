@@ -11,6 +11,8 @@ I'm also using this oportunity to learn how to use Git and GitHub
 
 When copying the Java files from the repo to TMC the package attribute needs to be deleted or changed so it coincides with TMC.
 
+As of 09 September 2024 this repo is officialy completed!
+
 ## Environment
 
 My current setup at this date (2023-09-16)
